@@ -1,0 +1,2 @@
+Assignment: Problem Solving with TypeScript & OOP
+This assignment assesses my practical understanding of core TypeScript concepts from Modules 1, 2, and 3—including basic types, optional/default/rest parameters, readonly tuples, interfaces, type narrowing, generics, Promises, and Object-Oriented Programming (OOP).
